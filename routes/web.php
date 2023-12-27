@@ -47,6 +47,9 @@ Route::get('upload-result-index', function () {
 Route::get('upload-result', function () {
     return view('result.upload');
 });
+Route::get('student-result', function () {
+    return view('result.student-result');
+});
 Route::get('example-auth', function () {
     return view('example-auth');
 });

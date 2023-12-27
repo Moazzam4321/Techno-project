@@ -64,8 +64,7 @@
 			</div>
 		</div>
 		<div
-			class="login-wrap d-flex align-items-center flex-wrap justify-content-center"
-		>
+			class="login-wrap d-flex align-items-center flex-wrap justify-content-center">
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-md-6 col-lg-7">
@@ -89,7 +88,7 @@
 												/>
 											</div>
 											<span>I'm</span>
-											Manager
+											Admin
 										</label>
 										<label class="btn">
 											<input type="radio" name="options" id="user" />
@@ -101,7 +100,7 @@
 												/>
 											</div>
 											<span>I'm</span>
-											Employee
+											Student
 										</label>
 									</div>
 								</div>
